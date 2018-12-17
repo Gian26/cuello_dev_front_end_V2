@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="189px" height="201px" viewBox="0 0 189 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-21.9%" y="-15.4%" width="143.8%" height="130.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="10 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <rect id="path-2" x="10.9018568" y="17.7763158" width="57.7798408" height="63.4868421" rx="8"></rect>
+        <rect id="path-3" x="69.4084881" y="17.7763158" width="57.7798408" height="17.1414474" rx="8"></rect>
+        <rect id="path-4" x="69.4084881" y="39.9967105" width="57.7798408" height="17.1414474" rx="8"></rect>
+        <rect id="path-5" x="69.4084881" y="63.4868421" width="57.7798408" height="17.1414474" rx="8"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-main" transform="translate(-467.000000, -667.000000)">
+            <g id="Group-2" transform="translate(493.000000, 667.000000)">
+                <rect id="Rectangle-8" fill-opacity="0.597741168" fill="#9B9B9B" filter="url(#filter-1)" x="0" y="0" width="137" height="195"></rect>
+                <g id="Group" transform="translate(7.000000, 8.000000)">
+                    <rect id="Rectangle-6" fill="#D8D8D8" x="0" y="0" width="137" height="193" rx="8"></rect>
+                    <g id="Rectangle-7">
+                        <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#979797" stroke-width="1" x="11.4018568" y="18.2763158" width="56.7798408" height="62.4868421" rx="8"></rect>
+                    </g>
+                    <rect id="Rectangle-7" fill="#448896" x="11.6286472" y="96.5" width="115.559682" height="78.0888158"></rect>
+                    <g id="Rectangle-7">
+                        <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#979797" stroke-width="1" x="69.9084881" y="18.2763158" width="56.7798408" height="16.1414474" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle-7">
+                        <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#979797" stroke-width="1" x="69.9084881" y="40.4967105" width="56.7798408" height="16.1414474" rx="8"></rect>
+                    </g>
+                    <g id="Rectangle-7">
+                        <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#979797" stroke-width="1" x="69.9084881" y="63.9868421" width="56.7798408" height="16.1414474" rx="8"></rect>
+                    </g>
+                    <path d="M11.8103448,174.90625 C41.8510168,149.723136 64.5026525,136.761239 79.765252,136.020559 C95.0278515,135.279879 110.835544,122.317982 127.188329,97.1348684 L127.188329,174.90625 L11.8103448,174.90625 Z" id="Path-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
